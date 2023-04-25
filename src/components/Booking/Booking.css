@@ -1,0 +1,35 @@
+.booking-form{
+    background-color: white;
+    padding: 30px;
+    width: fit-content;
+    border-radius: 5px;
+}
+
+input{
+    background-color: #F2F2F2;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: 500;
+}
+
+.booking-form input[type='text']{
+    width: 380px;
+}
+
+input[type='date']{
+    width: 180px;
+}
+
+label{
+    color: #808080;
+}
+
+.booking-form button{
+    background-color: #F9A51A;
+    width: 380px;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    font-weight: 500;
+}

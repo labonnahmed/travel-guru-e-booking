@@ -1,0 +1,18 @@
+.nav-search{
+  outline: none;
+  border: 1px solid white;
+  padding: 3px 30px;
+  background-color: rgba(255, 255, 255, 0.212);
+  border-radius: 5px;
+  width: 300px;
+}
+
+.nav-search::placeholder{
+    color: white;
+    font-size: 15px;
+}
+
+.search-icon{
+    position: absolute;
+    margin: 10px;
+}

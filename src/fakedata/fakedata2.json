@@ -1,0 +1,22 @@
+[{
+    "id": 1,
+    "title": "Light bright airy stylish apt & safe peaceful stay",
+    "description": "",
+    "image": "https://i.postimg.cc/RZjLy0Qf/Rectangle-26.png",
+    "price": 34,
+    "star":"4.9 (20)"
+  }, {
+    "id": 2,
+    "title": "Apartment in Lost Panorama",
+    "description": "",
+    "image": "https://i.postimg.cc/gk7VL075/Rectangle-27.png",
+    "price": 52,
+    "star":"4.8 (10)"
+  }, {
+    "id": 3,
+    "title": "AR Lounge & pool (r&r + b&b)",
+    "description": "",
+    "image": "https://i.postimg.cc/KYf4Lqzz/Rectangle-28.png",
+    "price": 44,
+    "star":"4.9 (25)"
+  }]

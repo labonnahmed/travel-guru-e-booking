@@ -1,0 +1,35 @@
+.main-context img{
+    width: 200px;
+    height: 320hv;
+    filter: brightness(70%);   
+    z-index: -1;
+    margin: 0px 5px;
+}
+
+.main-context img:hover{
+    border: 5px solid #fcc72a;
+    filter: brightness(100%);
+    transform: scale(105%);
+    border-radius: 20px;
+}
+
+.main-context h4{
+    position: absolute;
+    top: 65%;
+    margin-left: 20px;
+}
+
+.card-details{
+    margin-left: 120px;
+    padding-right: 100px;
+    padding-top: 50px;
+}
+
+.main-context{
+    margin-top: 10vh;
+}
+
+.arrow{
+    color: white;
+    height: 35px;
+}
